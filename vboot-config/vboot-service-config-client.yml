@@ -1,0 +1,17 @@
+
+spring.profiles.active: dev
+
+profile: profile
+
+---
+spring.profiles: dev
+profile: dev from config
+
+---
+spring.profiles: prod
+profile: prod from config
+
+---
+spring.profiles: test
+profile: test from config
+
